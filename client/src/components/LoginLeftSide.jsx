@@ -19,7 +19,7 @@ const LoginLeftSide = () => {
       empower your team securely.
       
       </p>
-      <p>admin email:sadinenibhargav0@gmail.com</p>
+      <p>admin email:yalamativamsi@gmail.com</p>
       <p>admin password:admin123</p>
     </div>
 
